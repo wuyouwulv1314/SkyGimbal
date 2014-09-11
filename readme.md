@@ -1,6 +1,4 @@
-yes,it is our quadcopter. SKYWORKS
-this code is mainly based on fang xin's miniquad,thanks for his work,especially the excellent IICtools and UARTtools.
-also many thanks to wang ruo xi,he sloved many puzzle of mine.
+yes,it is our Gimbal. SKYWORKS
 RY.
 SKYWORKS
 Embedded Group.
@@ -12,8 +10,4 @@ Embedded Group.
 D:\stm32lib\stm32f10x\CMSIS
 D:\stm32lib\stm32f10x\STM32F10x_StdPeriph_Driver
 
-图片：
-![image](https://github.com/wuyouwulv1314/SkyQuad/raw/master/image/1.jpg)
-![image](https://github.com/wuyouwulv1314/SkyQuad/raw/master/image/2.jpg)
-![image](https://github.com/wuyouwulv1314/SkyQuad/raw/master/image/3.jpg)
 
